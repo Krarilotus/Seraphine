@@ -1,0 +1,10 @@
+config-sparse:
+  modules:
+    aiSwapper:
+      config: {}
+  plugins: {}
+  load-order:
+    - extension: aiSwapper
+      version: 1.2.1
+meta:
+  version: 1.0.0

@@ -1,0 +1,9 @@
+meta:
+  version: 1.0.0
+name: Seraphine
+author: Krarilotus
+version: 1.0.0
+dependencies:
+  aiSwapper: ^1.2.1
+type: plugin
+display-name: Seraphine
