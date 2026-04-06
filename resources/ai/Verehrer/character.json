@@ -78,7 +78,7 @@
     "MaxEquipment": 8,
     "MaxBeer": 6,
     "MaxResourceVariance": 1,
-    "RecruitGoldThreshold": 95,
+    "RecruitGoldThreshold": 115,
     "BlacksmithSetting": "Swords",
     "FletcherSetting": "Crossbows",
     "PoleturnerSetting": "Pikes",
