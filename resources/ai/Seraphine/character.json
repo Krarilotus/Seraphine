@@ -9,21 +9,21 @@
     "normal": {
       "HorseArcher": 4,
       "Crossbowman": 4,
-      "Archer": 2,
+      "EuropArcher": 2,
       "Knight": 5,
       "Spearman": 2
     },
     "crusader": {
       "HorseArcher": 4,
       "Crossbowman": 4,
-      "Archer": 2,
+      "EuropArcher": 2,
       "Knight": 5,
       "Spearman": 2
     },
     "deathmatch": {
       "HorseArcher": 4,
       "Crossbowman": 4,
-      "Archer": 2,
+      "EuropArcher": 2,
       "Knight": 5,
       "Spearman": 2
     }

@@ -202,7 +202,7 @@
     "AIOxTethers_Logic"                     : 1,
     "AIOxTethers_MaxOxTethers"              : 8,
     "AIOxTethers_DynamicMaxOxTethers"       : 5,
-    "AIOxTethers_MinimumOxTethersPerQuarry" : 1,
+    "AIOxTethers_MinimumOxTethersPerQuarry" : 3,
     "AIOxTethers_MaximumOxTethersPerQuarry" : 5,
     "AIOxTethers_ThresholdStoneLoad"        : 10,
     "RunningUnits_Macemen": 1,
