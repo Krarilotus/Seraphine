@@ -62,7 +62,7 @@
     "MinimumWheat": 11,
     "MinimumHop": -1,
     "TradeAmountFood": 2,
-    "TradeAmountEquipment": 1,
+    "TradeAmountEquipment": 3,
     "AIRequestDelay": 34,
     "MinimumGoodsRequiredAfterTrade": 2,
     "DoubleRationsFoodThreshold": 60,
