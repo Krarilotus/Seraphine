@@ -1,31 +1,25 @@
 {
   "lord": {
-    "StrengthMultiplier": 1,
-    "DotCount": 0,
-    "DotColour": "None",
+    "StrengthMultiplier": 0.7,
+    "DotCount": 3,
+    "DotColour": "Yellow",
     "Type": "Arab"
   },
   "startTroops": {
     "normal": {
-      "ArabArcher": 6,
-      "Slinger": 5,
-      "Slave": 1,
-      "ArabSwordsman": 2,
-      "FireThrower": 2
+      "ArabArcher": 9,
+      "ArabSwordsman": 3,
+      "FireThrower": 3
     },
     "crusader": {
-      "ArabArcher": 6,
-      "Slinger": 5,
-      "Slave": 1,
-      "ArabSwordsman": 2,
-      "FireThrower": 2
+      "ArabArcher": 9,
+      "ArabSwordsman": 3,
+      "FireThrower": 3
     },
     "deathmatch": {
-      "ArabArcher": 6,
-      "Slinger": 5,
-      "Slave": 1,
-      "ArabSwordsman": 2,
-      "FireThrower": 2
+      "ArabArcher": 9,
+      "ArabSwordsman": 3,
+      "FireThrower": 3
     }
   },
   "aic": {
@@ -103,15 +97,15 @@
     "DefSiegeEngineBuildDelay": 4,
     "Unknown072": 200,
     "Unknown073": 20,
-    "RecruitProbDefDefault": 20,
-    "RecruitProbDefWeak": 40,
+    "RecruitProbDefDefault": 45,
+    "RecruitProbDefWeak": 55,
     "RecruitProbDefStrong": 50,
-    "RecruitProbRaidDefault": 30,
+    "RecruitProbRaidDefault": 10,
     "RecruitProbRaidWeak": 10,
-    "RecruitProbRaidStrong": 15,
-    "RecruitProbAttackDefault": 50,
-    "RecruitProbAttackWeak": 50,
-    "RecruitProbAttackStrong": 42,
+    "RecruitProbRaidStrong": 10,
+    "RecruitProbAttackDefault": 45,
+    "RecruitProbAttackWeak": 35,
+    "RecruitProbAttackStrong": 40,
     "SortieUnitRangedMin": 0,
     "SortieUnitRanged": "Monk",
     "SortieUnitMeleeMin": 10,
@@ -134,7 +128,7 @@
     "DefUnit6": "ArabArcher",
     "DefUnit7": "ArabArcher",
     "DefUnit8": "ArabSwordsman",
-    "RaidUnitsBase": 6,
+    "RaidUnitsBase": 3,
     "RaidUnitsRandom": 3,
     "RaidUnit1": "ArabSwordsman",
     "RaidUnit2": "ArabSwordsman",
