@@ -121,7 +121,7 @@
     "RecruitInterval": 1,
     "RecruitIntervalWeak": 1,
     "RecruitIntervalStrong": 1,
-    "DefTotal": 88,
+    "DefTotal": 89,
     "OuterPatrolGroupsCount": 1,
     "OuterPatrolGroupsMove": "True",
     "OuterPatrolRallyDelay": 2,
