@@ -9,17 +9,20 @@
     "normal": {
       "ArabArcher": 9,
       "ArabSwordsman": 3,
-      "FireThrower": 3
+      "FireThrower": 2,
+      "Slave": 2
     },
     "crusader": {
       "ArabArcher": 9,
       "ArabSwordsman": 3,
-      "FireThrower": 3
+      "FireThrower": 2,
+      "Slave": 2
     },
     "deathmatch": {
       "ArabArcher": 9,
       "ArabSwordsman": 3,
-      "FireThrower": 3
+      "FireThrower": 2,
+      "Slave": 2
     }
   },
   "aic": {
@@ -115,11 +118,11 @@
     "RecruitInterval": 1,
     "RecruitIntervalWeak": 1,
     "RecruitIntervalStrong": 1,
-    "DefTotal": 64,
-    "OuterPatrolGroupsCount": 0,
+    "DefTotal": 48,
+    "OuterPatrolGroupsCount": 1,
     "OuterPatrolGroupsMove": "True",
     "OuterPatrolRallyDelay": 2,
-    "DefWalls": 64,
+    "DefWalls": 48,
     "DefUnit1": "FireThrower",
     "DefUnit2": "ArabSwordsman",
     "DefUnit3": "ArabArcher",
@@ -148,7 +151,7 @@
     "HarassingSiegeEngine8": "None",
     "HarassingSiegeEnginesMax": 10,
     "RaidRetargetDelay": 0,
-    "AttForceBase": 78,
+    "AttForceBase": 89,
     "AttForceRandom": 0,
     "AttForceSupportAllyThreshold": 0,
     "AttForceRallyPercentage": 35,

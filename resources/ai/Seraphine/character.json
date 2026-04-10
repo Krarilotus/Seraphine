@@ -125,7 +125,7 @@
     "OuterPatrolGroupsCount": 1,
     "OuterPatrolGroupsMove": "True",
     "OuterPatrolRallyDelay": 2,
-    "DefWalls": 120,
+    "DefWalls": 88,
     "DefUnit1": "Crossbowman",
     "DefUnit2": "EuropArcher",
     "DefUnit3": "HorseArcher",
