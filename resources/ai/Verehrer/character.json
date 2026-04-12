@@ -178,7 +178,7 @@
     "AttMaxLaddermen": 0,
     "AttMaxTunnelers": 0,
     "AttUnitPatrol": "ArabArcher",
-    "AttUnitPatrolMax": 100,
+    "AttUnitPatrolMax": 30,
     "AttUnitPatrolGroupsCount": 0,
     "AttUnitBackup": "Monk",
     "AttUnitBackupMax": 0,
