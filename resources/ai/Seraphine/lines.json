@@ -1,14 +1,14 @@
 {
   "ai_name"      : "Seraphine",
 
-  "title_1"      : "Princess I.",
-  "title_2"      : "Rose II.",
-  "title_3"      : "Thorn III.",
-  "title_4"      : "Cliff Queen IV.",
-  "title_5"      : "Ash Rider V.",
-  "title_6"      : "White Silence VI.",
-  "title_7"      : "Laughing Blade VII.",
-  "title_8"      : "Seraphine VIII.",
+  "title_1"      : "Princess",
+  "title_2"      : "Rose",
+  "title_3"      : "Thorn",
+  "title_4"      : "Cliff Queen",
+  "title_5"      : "Ash Rider",
+  "title_6"      : "White Silence",
+  "title_7"      : "Laughing Blade",
+  "title_8"      : "Seraphine",
 
   "description"  : "Aurelain's mourning queen rules with silk and fear. Horse archers harry, assassins finish. Betrayal always becomes personal.",
   "unknown_1"    : "(Queen)",
