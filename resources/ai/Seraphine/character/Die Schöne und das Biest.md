@@ -1,7 +1,7 @@
 # Seraphine & Verehrer Backgroundstory
 
 Inspiration: Seraphine ist inspiriert von Kimberly und der Verehrer steht für all die Modder:innen die kimberly über die Jahre geknechtet hat ;^)
--> Verehrer ist symbolisch hier Nevikov, Krarilotus, Crusader Pilaw, Heroesflorian, Monsterfish_, Xander10alpha, etc.
+-> Verehrer ist symbolisch hier Heroesflorian, Krarilotus, Crusader Pilaw, Hacksülze, Monsterfish_, Xander10alpha,  etc.
 
 ## Gegliedert in wichtige Vorkommnisse
 
@@ -17,11 +17,11 @@ den Teppich gekehrt. Schon früh lernt Sie ihre Mutter auszunutzen und Sie als S
 Und dann ist da noch der Bruder ihres Vaters, ihr Onkel, der stehts bemüht ist die Regentschaft ihres Vaters in Frage zu stellen, dies aber nur hinter dem Rücken der Familie tut. 
 
 Am Hofe gibt es ein bestehendes Gaukler Kontingent, so auch einen Feuerspucker, einen Hundetrainer und natürlich mehrere Pferde dresseure.
--> (Der kleine Nevikov) ist der Sohn des Hundedomteurs, er lernt mit den Hunden umzugehen
+-> (Der kleine Heroesflorian) ist der Sohn des Hundedomteurs, er lernt mit den Hunden umzugehen
 -> Teile der Vorführugnen inkludieren auch Hundekämpfe, bei denen sich die Tiere gegenseitig fertig machen
--> Der Vater des Nevikov wird vom Onkel geschmiert, er hat ein Alkoholproblem und Geldnot und ist deshalb korrupt, der Fenrir, der Lieblignshund des Nevikov, wird vom Vater auf Agressivität bzgl der Lieblingsspeise des Königs dressiert -> darauf abgerichtet zu sein einen Attentat bei einem Gauklerfest zu vollziehen.
+-> Der Vater des Heroesflorian wird vom Onkel geschmiert, er hat ein Alkoholproblem und Geldnot und ist deshalb korrupt, der Fenrir, der Lieblignshund des Heroesflorian, wird vom Vater auf Agressivität bzgl der Lieblingsspeise des Königs dressiert -> darauf abgerichtet zu sein einen Attentat bei einem Gauklerfest zu vollziehen.
 - Bei einem der Gauklerauftritte davor allerdings: hat Seraphine ein paar Wachteln, die sie selbst geschossen hat gebraten dabei und sitzt in der ersten Reihe, sie wird von dem Hund angefallen
--> Nevikov sieht sich selbst tief in der Schuld, und tut alles um ihr zu helfen, jedoch wird Seraphine nie in ihrem Leben mehr rennen können.
+-> Heroesflorian sieht sich selbst tief in der Schuld, und tut alles um ihr zu helfen, jedoch wird Seraphine nie in ihrem Leben mehr rennen können.
 -> Er bringt ihr immer wieder Geschenke und sie kommen sich näher, sie ist einsam und er bietert sich ihr förmlich an.
 
 Im Winter darauf stürzt die Kutsche mit den Eltern vor Seraphines Augen mit dem Pferd das durchdreht die Eisige Klippe hinab, der Onkel übernimmt die Regentschaft (woran das wohl lag?)
@@ -65,17 +65,17 @@ Gleichzeitig schafft er jegliche Nebenbuhler schon im Keim aus dem Weg, alle sol
 - Felder und Wälder mit Küsten
 - Einleitung Verhalten der Eltern jeweils 1 Bild
 - Onkel: und seine Machenschaften
-### Nevikov Einführung: Missglücktes Attentat
-- Verknüpfung Fenrir und Nevikov
+### Heroesflorian Einführung: Missglücktes Attentat
+- Verknüpfung Fenrir und Heroesflorian
 - Gauklerfest + Wachtel die Seraphine selbstgeschossen hat Hintegrund
-- Hundeanfall, Nevikov völlig powerless, Seraphine starke Beinwunde
-- Nevikov wird eingeführt: nähert sich und biedert sich Seraphine an
+- Hundeanfall, Heroesflorian völlig powerless, Seraphine starke Beinwunde
+- Heroesflorian wird eingeführt: nähert sich und biedert sich Seraphine an
 ### Rückweg vom Gauklerfest im Winter
 - Pferd dreht durch, alles geht blitz schnell
 - Seraphine sieht die Kutsche ihrer Eltern die Klippe hinabstürzen
-- Onkel reißt Regentschaft an sich + Gerüchte & Veränderugnen
+- Onkel reißt Regentschaft an sich + Gerüchte & Veränderungen
 - Regentschaftsvertrag der Eltern erwähnen
-### Nevikov lebt in der Gosse
+### Heroesflorian lebt in der Gosse
 - Flucht, er steht am Abgrund und leidet
 - Kontaktaufbau zu Seraphine + Aufstieg in den Verbrecherbanden
 - Aufbau des Kultes, er wird asl 'Der Verehrer bekannt'

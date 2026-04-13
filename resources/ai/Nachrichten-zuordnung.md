@@ -12,7 +12,7 @@ Vict_03 = Nachricht, wenn man von KI getötet wurde
 Vict_04 = KI besiegt andere, feindliche KI
 
 Nervous_01 = Nachricht, wenn man die KI angreift
-Nervous_01 = Nachricht, wenn man die KI angreift
+Nervous_02 = Nachricht, wenn man die KI angreift
 
 Noattack_01 = KI greift angefragten Gegner nicht an
 Noattack_02 = KI greift angefragten Gegner nicht an
