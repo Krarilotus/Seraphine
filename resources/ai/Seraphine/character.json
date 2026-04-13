@@ -177,7 +177,7 @@
     "AttDiggingUnitMax": 0,
     "AttUnitVanguard": "Crossbowman",
     "AttUnitVanguardMax": 45,
-    "AttMaxAssassins": 0,
+    "AttMaxAssassins": 10,
     "AttMaxLaddermen": 0,
     "AttMaxTunnelers": 0,
     "AttUnitPatrol": "HorseArcher",

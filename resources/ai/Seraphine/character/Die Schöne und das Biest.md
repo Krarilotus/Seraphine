@@ -1,6 +1,6 @@
 # Seraphine & Verehrer Backgroundstory
 
-Inspiration: Seraphine ist Kimberly und der Verehrer steht für all die Modder:innen die kimberly über die Jahre geknechtet hat
+Inspiration: Seraphine ist inspiriert von Kimberly und der Verehrer steht für all die Modder:innen die kimberly über die Jahre geknechtet hat ;^)
 -> Verehrer ist symbolisch hier Nevikov, Krarilotus, Crusader Pilaw, Heroesflorian, Monsterfish_, Xander10alpha, etc.
 
 ## Gegliedert in wichtige Vorkommnisse
