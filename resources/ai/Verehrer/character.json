@@ -185,7 +185,7 @@
     "AttUnitBackupGroupsCount": 1,
     "AttUnitEngage": "ArabArcher",
     "AttUnitEngageMax": 0,
-    "AttUnitSiegeDef": "Monk",
+    "AttUnitSiegeDef": "ArabSwordsman",
     "AttUnitSiegeDefMax": 15,
     "AttUnitSiegeDefGroupsCount": 1,
     "AttUnitMain1": "ArabSwordsman",
