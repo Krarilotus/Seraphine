@@ -1,16 +1,16 @@
 {
   "lord": {
-    "StrengthMultiplier": 1,
+    "StrengthMultiplier": 0.5,
     "DotCount": 0,
     "DotColour": "None",
     "Type": "Arab"
   },
   "startTroops": {
     "normal": {
-      "HorseArcher": 4,
-      "Crossbowman": 4,
-      "EuropArcher": 2,
-      "Knight": 5,
+      "HorseArcher": 7,
+      "Crossbowman": 2,
+      "EuropArcher": 1,
+      "Knight": 7,
       "Spearman": 2
     },
     "crusader": {
@@ -159,7 +159,7 @@
     "AttForceSupportAllyThreshold": 0,
     "AttForceRallyPercentage": 35,
     "Unknown129": 100,
-    "AttAssaultDelay": 1,
+    "AttAssaultDelay": 0,
     "AttUnitPatrolRecommandDelay": 1,
     "Unknown132": 100,
     "SiegeEngine1": "FireBallista",
