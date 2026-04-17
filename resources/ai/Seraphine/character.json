@@ -1,16 +1,15 @@
 {
   "lord": {
     "StrengthMultiplier": 0.5,
-    "DotCount": 0,
-    "DotColour": "None",
+    "DotCount": 5,
+    "DotColour": "Blue",
     "Type": "Arab"
   },
   "startTroops": {
     "normal": {
-      "HorseArcher": 7,
+      "HorseArcher": 6,
       "Crossbowman": 2,
-      "EuropArcher": 1,
-      "Knight": 7,
+      "Knight": 6,
       "Spearman": 2
     },
     "crusader": {
