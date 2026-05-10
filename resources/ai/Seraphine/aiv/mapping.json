@@ -1,7 +1,8 @@
 {
-  "castle_1"    : "Schloss Winterhafen.aiv",
+  "castle_1"    : "Sturmwacht.aiv",
   "castle_2"    : "Schloss Winterhafen.aiv",
-  "castle_3"    : "Schloss Winterhafen.aiv",
-  "castle_5"    : "Schloss Winterhafen.aiv",
-  "castle_7"    : "Schloss Winterhafen.aiv"
+  "castle_3"    : "Hohenstein.aiv",
+  "castle_4"    : "Kreidekrone.aiv",
+  "castle_5"    : "Rossfels.aiv",
+  "castle_7"    : "Teufelsschlucht.aiv"
 }
