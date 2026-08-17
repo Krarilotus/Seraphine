@@ -30,8 +30,10 @@ Der Kampf aus der Auswahlphase auf dem Kanal von Crusader Pilaw:
 ## Installation
 
 1. UCP3 installieren und starten.
-2. Das Plugin **Seraphine & Der Verehrer** im Bereich „Inhalte“ auswählen.
-3. Die Konfiguration anwenden und *Stronghold Crusader* starten.
+2. Im Bereich **„Inhalte“** die Plugins **Seraphine & Der Verehrer** und **Mod KI Liga** auswählen.
+3. Im Bereich **„Customizations“** den **AI Swapper** öffnen.
+4. **Seraphine** und **Der Verehrer** zwei bestehenden KI-Plätzen zuweisen.
+5. Die Konfiguration anwenden und *Stronghold Crusader* starten.
 
 ## Kartenpicks der Mod-KI-Team-Liga
 

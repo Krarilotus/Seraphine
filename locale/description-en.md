@@ -22,5 +22,7 @@ Their shared story is told in Krarilotus’ video **“Die Schöne und das Biest
 ## Installation
 
 1. Install and launch UCP3.
-2. Select the **Seraphine & Der Verehrer** plugin in the Contents tab.
-3. Apply the configuration and launch *Stronghold Crusader*.
+2. In the **Contents** tab, select both **Seraphine & Der Verehrer** and **Mod KI Liga**.
+3. Open **AI Swapper** in the **Customizations** tab.
+4. Assign **Seraphine** and **Der Verehrer** to two existing AI slots.
+5. Apply the configuration and launch *Stronghold Crusader*.
