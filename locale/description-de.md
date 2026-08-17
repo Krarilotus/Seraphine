@@ -11,7 +11,7 @@ Zusammen bilden sie das Team **„Asche und Seide“**. Beide KIs besitzen eigen
 
 Die gemeinsame Geschichte der beiden Charaktere erzählt das Video **„Die Schöne und das Biest“** auf dem Kanal von Krarilotus:
 
-[![Die Schöne und das Biest – Storytime Mod KI Team Liga](https://i.ytimg.com/vi/qQkI2OK_rT4/hqdefault.jpg)](https://www.youtube.com/watch?v=qQkI2OK_rT4)
+[![Die Schöne und das Biest – Storytime Mod KI Team Liga](https://raw.githubusercontent.com/Krarilotus/Seraphine/main/locale/story-thumbnail.jpg)](https://www.youtube.com/watch?v=qQkI2OK_rT4)
 
 ## Mod-KI-Team-Liga
 

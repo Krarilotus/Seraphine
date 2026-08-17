@@ -2,7 +2,7 @@ meta:
   version: 1.0.0
 name: Seraphine-and-Verehrer
 author: Krarilotus, Xander10alpha
-version: 1.0.0
+version: 1.0.1
 dependencies:
   aiSwapper: ^1.2.1
 type: plugin

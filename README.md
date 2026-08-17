@@ -13,7 +13,7 @@ Gemeinsam treten sie als Team **„Asche und Seide“** an. Das Plugin bringt di
 
 Die Hintergrundgeschichte von Seraphine und dem Verehrer auf dem Kanal von Krarilotus:
 
-[![Die Schöne und das Biest – Storytime Mod KI Team Liga](https://i.ytimg.com/vi/qQkI2OK_rT4/hqdefault.jpg)](https://www.youtube.com/watch?v=qQkI2OK_rT4)
+[![Die Schöne und das Biest – Storytime Mod KI Team Liga](locale/story-thumbnail.jpg)](https://www.youtube.com/watch?v=qQkI2OK_rT4)
 
 ### Ankündigung der ersten Mod-KI-Team-Liga-Saison
 

@@ -11,7 +11,7 @@ Together, they compete as team **“Asche und Seide”** (*Ash and Silk*). Both 
 
 Their shared story is told in Krarilotus’ video **“Die Schöne und das Biest”** (*Beauty and the Beast*):
 
-[![Die Schöne und das Biest – Storytime Mod AI Team League](https://i.ytimg.com/vi/qQkI2OK_rT4/hqdefault.jpg)](https://www.youtube.com/watch?v=qQkI2OK_rT4)
+[![Die Schöne und das Biest – Storytime Mod AI Team League](https://raw.githubusercontent.com/Krarilotus/Seraphine/main/locale/story-thumbnail.jpg)](https://www.youtube.com/watch?v=qQkI2OK_rT4)
 
 ## Mod AI Team League
 
