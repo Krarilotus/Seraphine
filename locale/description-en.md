@@ -1,11 +1,11 @@
-# Seraphine & Der Verehrer – Team “Asche und Seide”
+# Seraphine & Der Verehrer – Team “Ash and Silk”
 
 This UCP3 plugin adds two AI characters created specifically for the Mod AI Team League to *Stronghold Crusader*:
 
 - **Seraphine**, created by **Krarilotus**
 - **Der Verehrer** (*The Devotee*), created by **Xander10alpha**
 
-Together, they compete as team **“Asche und Seide”** (*Ash and Silk*). Both AIs feature their own castles, portraits, voice lines, and videos. Seraphine’s regal facade and the Devotee’s unconditional loyalty form a team of light and shadow, silk and ash.
+Together, they compete as team **“Ash and Silk”**. Both AIs feature their own castles, portraits, voice lines, and videos. Seraphine’s regal facade and the Devotee’s unconditional loyalty form a team of light and shadow, silk and ash.
 
 ## Background story
 
