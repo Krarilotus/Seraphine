@@ -22,5 +22,5 @@ Their shared story is told in Krarilotus’ video **“Die Schöne und das Biest
 ## Installation
 
 1. Install and launch UCP3.
-2. Select the **Seraphine** plugin in the Contents tab.
+2. Select the **Seraphine & Der Verehrer** plugin in the Contents tab.
 3. Apply the configuration and launch *Stronghold Crusader*.

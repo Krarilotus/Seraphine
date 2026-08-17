@@ -22,5 +22,5 @@ Die gemeinsame Geschichte der beiden Charaktere erzählt das Video **„Die Sch�
 ## Installation
 
 1. UCP3 installieren und starten.
-2. Das Plugin **Seraphine** im Bereich „Inhalte“ auswählen.
+2. Das Plugin **Seraphine & Der Verehrer** im Bereich „Inhalte“ auswählen.
 3. Die Konfiguration anwenden und *Stronghold Crusader* starten.
