@@ -2,8 +2,18 @@ meta:
   version: 1.0.0
 name: Seraphine-and-Verehrer
 author: Krarilotus, Xander10alpha
-version: 1.0.2
+version: 1.0.3
 dependencies:
   aiSwapper: ^1.2.1
 type: plugin
 display-name: "Seraphine & Der Verehrer"
+tags:
+- ai
+- aic
+- aiv
+- sounds
+capabilities:
+  files: true
+  code: false
+  configuration: false
+  options: false
