@@ -12,8 +12,3 @@ tags:
 - aic
 - aiv
 - sounds
-capabilities:
-  files: true
-  code: false
-  configuration: false
-  options: false
